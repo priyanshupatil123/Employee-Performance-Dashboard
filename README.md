@@ -1,4 +1,4 @@
-# employee-dashboard
+Employee-Performance-Dashboard
 I had used columns in analysis such as salary, age, employees performance, departments, attrition etc.
 
 By using every column we can analyise an employee performance of IBM Company. There are total 301 employees working in a company in which 197 employees are active and 104 employees are those who left the company.
